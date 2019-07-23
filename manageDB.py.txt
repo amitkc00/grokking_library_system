@@ -1,0 +1,24 @@
+#class ManageDB():
+#    def __init__(self):
+#        pass
+
+
+
+
+###########
+Tables for this Library.
+
+1. member_table
+2. item_table
+3. notification_table
+3. reservation_table
+
+#######
+Following Questions can be asked on these tables and overall database.
+
+1. Where is the Schema Design?
+2. Can this handle 100, 000 books and all the combinations it comes with.
+3. How do you the design is not brittle?
+4. How's the flow of code?
+5. Get the code reviewed.
+6. Get a decent working code out first. Don't wait for all functionality and perfection.
